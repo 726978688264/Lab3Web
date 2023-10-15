@@ -69,7 +69,7 @@
 </html>
 ```
 ## Hasil Output
-![gambar 1](https://github.com/726978688264/Lab3Web/commit/8a2d74e789fd045b1075a9b70e868f7321b6e672#diff-95a43527f1ffe95cf9222d9caa089338acf93681964aefb01d28a7216a02fbb4)
+![gambar 1](https://github.com/726978688264/Lab3Web/blob/main/List.PNG)
 ## Membuat Tabel
 * Buat file baru dengan nama ```table.html``` seperti berikut.
 ```python
@@ -152,7 +152,7 @@
 </html>
 ```
 ## Hasil Output
-![gambar 1](https://github.com/726978688264/Lab3Web/commit/8a2d74e789fd045b1075a9b70e868f7321b6e672#diff-92ed1b5d62e5c68787d0614a4d87705477844b1d26af72cf57369d415665b6b1)
+![gambar 1](https://github.com/726978688264/Lab3Web/blob/main/Table.PNG)
 ## Membuat Form
 * Buat file baru dengan nama ```Form.html``` seperti berikut.
 ```python
@@ -209,7 +209,7 @@
 </html>
 ```
 ## Hasil Output
-![gambar 1](https://github.com/726978688264/Lab3Web/commit/8a2d74e789fd045b1075a9b70e868f7321b6e672)
+![gambar 1](https://github.com/726978688264/Lab3Web/blob/main/Form.PNG)
 ## Tugas menampilkan ```dropdown menu dan listbox``` dengan multiple selection.
 ```python
 <!DOCTYPE html>
@@ -302,4 +302,4 @@
 </html>
 ```
 ## Hasil Output
-![gambar 1](https://github.com/726978688264/Lab3Web/commit/8a2d74e789fd045b1075a9b70e868f7321b6e672#diff-e2170dac4a7cadf76ab1a62c640925f527bc47361fe36384374c5d44a3c7906f)
+![gambar 1](https://github.com/726978688264/Lab3Web/blob/main/Listbox.PNG)
